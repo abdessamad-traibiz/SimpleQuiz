@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Quiz3">
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="29dp"
+        android:layout_above="@+id/question"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="135dp"
+        android:layout_marginBottom="308dp"
+        android:background="@drawable/ic_back"
+        android:backgroundTint="@color/black"
+        app:tint="@color/black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QUIZ 3"
+        android:layout_centerHorizontal="true"
+        android:textSize="34sp"/>
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="-24dp"
+        android:layout_marginEnd="-2dp"
+        android:layout_marginBottom="73dp"
+        android:text="Avant de partir, je laisse tourner mon moteur pour qu'il monte en température :"
+        android:textSize="28dp" />
+
+    <Button
+        android:id="@+id/ButtonNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="3dp"
+        android:text="Suivant" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="367dp"
+        app:srcCompat="@drawable/voiture" />
+
+    <RadioGroup
+        android:id="@+id/radiogrp"
+        android:layout_width="365dp"
+        android:layout_height="150dp"
+        android:layout_above="@+id/ButtonNext"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="9dp"
+        android:layout_marginBottom="75dp">
+
+        <RadioButton
+            android:id="@+id/radioButton1"
+            android:layout_width="match_parent"
+            android:layout_height="62dp"
+            android:text="Oui" />
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Non" />
+    </RadioGroup>
+
+
+</RelativeLayout>

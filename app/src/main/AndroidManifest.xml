@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.quiz">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Quiz"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Login">
+        <activity
+            android:name="com.example.quiz.Score"
+            android:exported="false" />
+        <activity
+            android:name="com.example.quiz.SignUp"
+            android:exported="false" />
+        <activity
+            android:name="com.example.quiz.Quiz5"
+            android:exported="false" />
+        <activity
+            android:name="com.example.quiz.Quiz4"
+            android:exported="false" />
+        <activity
+            android:name="com.example.quiz.Quiz3"
+            android:exported="false" />
+        <activity
+            android:name="com.example.quiz.Quiz2"
+            android:exported="false" />
+        <activity
+            android:name="com.example.quiz.Quiz1"
+            android:exported="false" />
+        <activity
+            android:name="com.example.quiz.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

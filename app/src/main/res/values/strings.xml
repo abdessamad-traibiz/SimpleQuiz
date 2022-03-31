@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="quiz_1">QUIZ 1</string>
+    <string name="your_score">Your Score</string>
+    <string name="sign_in">Sign In</string>
+    <string name="score">Score</string>
+    <string name="try_again">Try Again</string>
+    <string name="sign_out">Sign out</string>
+</resources>
