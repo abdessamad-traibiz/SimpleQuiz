@@ -6,6 +6,8 @@
         <entry key="..\:/Users/Abdes/AndroidStudioProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Abdes/AndroidStudioProjects/Login/app/src/main/res/layout/activity_quiz1.xml" value="0.25" />
         <entry key="..\:/Users/Abdes/AndroidStudioProjects/Login/app/src/main/res/layout/activity_second.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/drawable-v24/border.xml" value="0.138" />
+        <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/drawable-v24/border_right.xml" value="0.138" />
         <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/drawable-v24/ic_back.xml" value="0.1" />
         <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1305" />
         <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1305" />
@@ -13,7 +15,11 @@
         <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1305" />
         <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.1305" />
         <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1305" />
-        <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/layout/activity_otp_send.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/layout/activity_otp_verify.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/layout/activity_phone_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/layout/activity_phone_sign_in2.xml" value="0.20833333333333334" />
         <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/layout/activity_quiz1.xml" value="0.25" />
         <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/layout/activity_quiz2.xml" value="0.33" />
         <entry key="..\:/Users/Abdes/AndroidStudioProjects/Quiz/app/src/main/res/layout/activity_quiz3.xml" value="0.20833333333333334" />

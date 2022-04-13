@@ -12,28 +12,34 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Login">
         <activity
-            android:name="com.example.quiz.Score"
+            android:name=".OtpVerifyActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.quiz.SignUp"
+            android:name=".OtpSendActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.quiz.Quiz5"
+            android:name=".Score"
             android:exported="false" />
         <activity
-            android:name="com.example.quiz.Quiz4"
+            android:name=".SignUp"
             android:exported="false" />
         <activity
-            android:name="com.example.quiz.Quiz3"
+            android:name=".Quiz5"
             android:exported="false" />
         <activity
-            android:name="com.example.quiz.Quiz2"
+            android:name=".Quiz4"
             android:exported="false" />
         <activity
-            android:name="com.example.quiz.Quiz1"
+            android:name=".Quiz3"
             android:exported="false" />
         <activity
-            android:name="com.example.quiz.MainActivity"
+            android:name=".Quiz2"
+            android:exported="false" />
+        <activity
+            android:name=".Quiz1"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

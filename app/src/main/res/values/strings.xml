@@ -6,4 +6,8 @@
     <string name="score">Score</string>
     <string name="try_again">Try Again</string>
     <string name="sign_out">Sign out</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="please_enter_your_verification_code">Please Enter Your Verification Code</string>
+    <string name="didn_t_get_otp_resend">Didn\'t get OTP? Resend?</string>
+    <string name="_6_xxxxxxxx">6 XXXXXXXX</string>
 </resources>
